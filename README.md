@@ -1,0 +1,2 @@
+# goworks
+some go practice
